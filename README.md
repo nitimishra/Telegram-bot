@@ -30,14 +30,14 @@ Just type `/start`, enter the password length you need, and the bot will generat
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/telegram-password-generator-bot.git
-cd telegram-password-generator-bot
-
+git clone https://github.com/nitimishra/telegram-bot.git
+cd telegram-bot
+```
 ### 2️⃣ Install dependencies
 
 ```bash
 pip install python-telegram-bot
-
+```
 ### 3️⃣ Create your Telegram bot
 
 1. Open Telegram and search for **BotFather**  
@@ -54,16 +54,16 @@ Create a new file named **`main.py`** in your project directory and add the foll
 
 ```python
 Token = "<ENTER_YOUR_TOKEN>"
-
+```
 ## ▶️ How to Run
 
 Run the bot using the following command:
 
 ```bash
 python main.py
-
+```
 📁 Project Structure
-telegram-password-generator-bot/
+telegram-bot/
 |
 ├── main.py              # Main bot logic
 └── README.md            # Project documentation
