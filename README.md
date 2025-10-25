@@ -62,8 +62,13 @@ Run the bot using the following command:
 ```bash
 python main.py
 ```
-📁 Project Structure
+
+## 📁 Project Structure
+
+```
 telegram-bot/
 |
 ├── main.py              # Main bot logic
 └── README.md            # Project documentation
+
+```
